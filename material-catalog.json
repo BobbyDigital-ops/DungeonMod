@@ -1,0 +1,99 @@
+{
+  "schema": 1,
+  "renderer": "Canvas 2D / texture-mapped material slots",
+  "slots": [
+    "floor",
+    "wall",
+    "trim",
+    "wood",
+    "metal"
+  ],
+  "collections": [
+    {
+      "name": "Hell",
+      "diffuse_variations": 11
+    },
+    {
+      "name": "Magical Wood Planks",
+      "diffuse_variations": 8
+    },
+    {
+      "name": "Horror Walls",
+      "diffuse_variations": 12
+    },
+    {
+      "name": "Ground",
+      "diffuse_variations": 15
+    },
+    {
+      "name": "Roots",
+      "diffuse_variations": 13
+    },
+    {
+      "name": "Cave Wall",
+      "diffuse_variations": 10
+    },
+    {
+      "name": "Roof",
+      "diffuse_variations": 11
+    },
+    {
+      "name": "Damaged Parquet",
+      "diffuse_variations": 10
+    },
+    {
+      "name": "Metal",
+      "diffuse_variations": 10
+    },
+    {
+      "name": "Lava",
+      "diffuse_variations": 11
+    },
+    {
+      "name": "Stone Wall",
+      "diffuse_variations": 15
+    },
+    {
+      "name": "Water",
+      "diffuse_variations": 9
+    },
+    {
+      "name": "Metal Plates",
+      "diffuse_variations": 7
+    },
+    {
+      "name": "Grass",
+      "diffuse_variations": 18
+    },
+    {
+      "name": "Indoor Walls",
+      "diffuse_variations": 5
+    },
+    {
+      "name": "Tiles",
+      "diffuse_variations": 6
+    },
+    {
+      "name": "Fall Ground",
+      "diffuse_variations": 6
+    },
+    {
+      "name": "Damaged Wall",
+      "diffuse_variations": 5
+    },
+    {
+      "name": "Wood Planks",
+      "diffuse_variations": 10
+    },
+    {
+      "name": "Cobble Stone",
+      "diffuse_variations": 7
+    },
+    {
+      "name": "Floor",
+      "diffuse_variations": 20
+    }
+  ],
+  "source": "21 user-supplied Lynocs ZIP archives",
+  "integration": "219 reduced-resolution JPG diffuse images in downloadable project ZIP; original maps remain in source ZIPs"
+}
